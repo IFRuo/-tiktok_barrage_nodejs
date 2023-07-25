@@ -1,3 +1,6 @@
+
+项目仅用于研究学习 请移步原作者：https://github.com/jiansenc/tiktok_barrage_nodejs
+
 - 1.打开项目跟目录 安装 node 依赖 并运行
 
 ```node
